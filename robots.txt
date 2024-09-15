@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kujad.github.io/IhQ/sitemap.IhQ.gz
